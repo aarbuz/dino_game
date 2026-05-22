@@ -8,8 +8,8 @@
 ---
 
 ## 🎮 Demo
-![Demo gry](link_do_twojego_obrazka.gif)
-
+![Zdjęcie 1](assets/photo1.jpg)
+![Zdjęcie 2](assets/photo2.jpg)
 ## 💡 Opis Projektu
 Projekt to replika popularnej gry "T-Rex Runner". Skaczący dinozaur, przeszkody generowane z rosnącą prędkością i zliczanie punktów. Całość obsługiwana fizycznym przyciskiem i wyświetlana na małym ekranie. 
 
@@ -26,7 +26,8 @@ Jeśli chcesz zbudować to samemu, będziesz potrzebować:
 * Wyświetlacz: **[np. OLED 0.96" I2C / LCD TFT]**
 * Sterowanie: **Fizyczny przycisk / Joystick**
 * Kable zworkowe, płytka stykowa.
-
+![Zdjęcie 3](assets/photo3.png
+)
 ## 💻 Użyte Technologie (Software)
 * Język: **C / C++** (Arduino IDE)
 * Biblioteki:
