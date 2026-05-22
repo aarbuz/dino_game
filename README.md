@@ -8,8 +8,9 @@
 ---
 
 ## 🎮 Demo
-![Zdjęcie 1](assets/photo1.jpg)
-![Zdjęcie 2](assets/photo2.jpg)
+![Zdjęcie 1](assets/photo1.png)
+![Zdjęcie 2](assets/photo2.png)
+![Film](assets/video.mov)
 ## 💡 Opis Projektu
 Projekt to replika popularnej gry "T-Rex Runner". Skaczący dinozaur, przeszkody generowane z rosnącą prędkością i zliczanie punktów. Całość obsługiwana fizycznym przyciskiem i wyświetlana na małym ekranie. 
 
