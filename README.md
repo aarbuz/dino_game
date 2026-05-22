@@ -11,6 +11,7 @@
 <p align="center">
   <img src="assets/photo1.png" width="40%" />
   <img src="assets/photo2.png" width="40%" />
+  <video src="assets/video.mp4" controls width="600"></video>
 </p>
 
 ## 💡 Opis Projektu
