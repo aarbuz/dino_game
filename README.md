@@ -9,8 +9,8 @@
 
 ## 🎮 Demo
 <p align="center">
-  <img src="assets/photo1.png" width="50%" />
-  <img src="assets/photo2.png" width="50%" />
+  <img src="assets/photo1.png" width="40%" />
+  <img src="assets/photo2.png" width="40%" />
 </p>
 
 ## 💡 Opis Projektu
